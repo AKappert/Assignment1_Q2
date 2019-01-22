@@ -1,4 +1,4 @@
-#Assignment1_Q2
+# Assignment1_Q2
 Create a class called Flight that contains information about the
 flight of the airline company. A flight is identified by: a flight id (string), departure
 time (Time), departure date (Date), arrival time (Time), arrival date (Date),
